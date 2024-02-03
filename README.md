@@ -8,9 +8,6 @@ you can currently enjoy the following features:
 * **Filter by location:** Quickly find properties in your desired region or city.
 * **Interactive maps:** Visualize property locations and plan your travel itinerary.
 * **Stunning design:** Immerse yourself in a beautiful and user-friendly interface crafted with SwiftUI.
-![IMG_3129](https://github.com/kumarannathan/AirBnB/raw/main/assets/98358804/a5bb8476-e3d6-4f66-a2c9-0ecf440ce40e | width=249)
-![IMG_3130](https://github.com/kumarannathan/AirBnB/raw/main/assets/98358804/c7012ef4-03bd-4a57-a1c4-2c9ec8f3cda2 | width=249)
-![IMG_3131](https://github.com/kumarannathan/AirBnB/raw/main/assets/98358804/b680bd1d-5c07-409b-8d3e-486e9c0813aa | width=249)
-![IMG_3133](https://github.com/kumarannathan/AirBnB/raw/main/assets/98358804/2715ee7a-de43-4733-84cc-ddf6b2519a35 | width=249)
-![IMG_3134](https://github.com/kumarannathan/AirBnB/raw/main/assets/98358804/d658879c-4560-4f90-b8d0-15a90471efce | width=249)
 
+
+<img width="256" src="https://github.com/kumarannathan/AirBnB/assets/98358804/0c63bdfb-37c5-40c4-b8f8-a1bb1b0b66f8">
