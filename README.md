@@ -9,4 +9,4 @@ you can currently enjoy the following features:
 * **Interactive maps:** Visualize property locations and plan your travel itinerary.
 * **Stunning design:** Immerse yourself in a beautiful and user-friendly interface crafted with SwiftUI.
 <img width="249" alt="Screenshot 2024-02-04 at 3 23 33 AM" src="https://github.com/kumarannathan/AirBnB/assets/98358804/bedb0c3f-49a8-4b1e-b7b0-f1ab61143ed6">
-<img width="256" alt="Screenshot 2024-02-04 at 3 23 53 AM" src="https://github.com/kumarannathan/AirBnB/assets/98358804/6b1151ed-d023-4523-93f3-0d8d6768bed8">
+<img width="249" alt="Screenshot 2024-02-04 at 3 23 53 AM" src="https://github.com/kumarannathan/AirBnB/assets/98358804/6b1151ed-d023-4523-93f3-0d8d6768bed8">
