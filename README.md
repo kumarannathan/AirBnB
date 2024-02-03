@@ -10,10 +10,10 @@ you can currently enjoy the following features:
 * **Stunning design:** Immerse yourself in a beautiful and user-friendly interface crafted with SwiftUI.
 
 
-
+<div style="text-align: center;">
 <img width="128" src="https://github.com/kumarannathan/AirBnB/assets/98358804/514f7b8a-7513-4734-b80e-7ef615dd43ef">
 <img width="128" src="https://github.com/kumarannathan/AirBnB/assets/98358804/7f7d1112-b984-4fb0-8fb2-27f08deb8e7f">
 <img width="128" src="https://github.com/kumarannathan/AirBnB/assets/98358804/baaa1b32-2406-4465-ac3a-082de3b2963f">
 <img width="128" src="https://github.com/kumarannathan/AirBnB/assets/98358804/cf128ac7-8ee0-4b64-8f03-998e58a809bc">
 <img width="128" src="https://github.com/kumarannathan/AirBnB/assets/98358804/9ad1af56-4849-4f39-a729-1f1f6f92f28e">
-
+</div>
